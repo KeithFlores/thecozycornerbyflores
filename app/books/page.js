@@ -1,4 +1,4 @@
-import Image from "next/image"; // Add this line
+import Image from "next/image"; 
 
 export default function BooksPage() {
   const books = [
