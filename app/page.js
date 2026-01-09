@@ -1,5 +1,5 @@
-import Image from "next/image"; // Add this line
-import Link from "next/link";   // Add this line
+import Image from "next/image"; 
+import Link from "next/link";   
 
 export default function Home() {
   return (
